@@ -16,8 +16,7 @@
 3 - List the technologies required by the solution.
   - nosql database - since this will be a social networking platform, the requirement for large data and the large scalability capabilities provide advantages over a sql database
   - swift - the mobile appliction must be functional on both ios and android
-  - kotlin - 
-  - kubernetes - 
+  - kotlin - required for android studio, preferred over java since the industry is shifting towards this direction as well as experience of team members in c/c++
   - aws - deployment on aws provides an all inclusive management 
   - vuejs - a lightweight component based framework for web development. Any product in the modern day needs a website.
   
