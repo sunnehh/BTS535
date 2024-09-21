@@ -1,18 +1,14 @@
 # BTS535-workshop3
 
-## Mobile app for tracking/sharing training (runs, weighlifting, etc)
+### Raspberry PI application to control access to buildings
 
 ### 1 - Describe the problem;
 
-  The project we've chosen is a cross-platform mobile training application. We want this project to be able to track workouts based upon workout category. This is to give people the ability to have a historical representation of their effort and a visual pathway towards their goals. 
-  We want the tracked information to be both informative and sharable between a user's connections on the platform. The vision is to create a platform where athletes and casual fitness enthusiests alike
-  are able to have a platform to track and share their workouts and milestones. The key vision of the app is to "gameify" fitness. A social network for fitness enthusiests currently exists but is catered towards
-  distance disciplines.
+  In many buildings, access control systems are outdated or inefficient, relying on manual verification or old-fashioned card systems. These methods can be prone to security risks such as unauthorized entry or lost access cards, and they offer limited flexibility in adjusting permissions remotely. The need for a more modern, reliable, and flexible solution that uses current technologies such as Raspberry Pi is growing to provide better security and management.
 
 ### 2 - Propose a solution;
-  The main features for this application would be the ability for users to create accounts, creating workout logs that track different workouts, the ability to display workout history with graphs and statistical information, goal-setting and tracking within the application, and the ability to share workout summaries or achievements with others.
-  The app should have capabilities to estimate personal effort in relation to past workouts or others of similar body type and time availability to give each workout a "score" to support gameifying exercise.
+  We propose a Raspberry Pi-based application that automates building access control. This system will use RFID technology or facial recognition to allow authorized personnel entry into the building. The Raspberry Pi will act as the core controller, managing entry and exit, tracking access logs, and sending notifications to building managers in real time. It will allow for easy integration with existing security systems, remote access management, and scalable access for multiple users.
   
 
 ### 3 - List the technologies required by the solution.
-  Since this is a cross-platform application, using something like React-Native would accomplish the ability to deploy the app on multiple platforms. React-native is a javascript based framework with a large community support. The backend can be supported using Node.js with MongoDB for storing workout related information. For the front end, designs for workout log forms, goal-setting interfaces, and graphs need to be made. Tools like figma can help with creating these features visually. 
+  The proposed solution will be built using several technologies. At the core of the system is a Raspberry Pi, which will serve as the central hub for controlling access and processing data. An RFID reader or facial recognition system will be employed to identify authorized individuals trying to access the building. The system logic will be implemented in Python, enabling efficient control of the hardware components and integration with other technologies. A database will be used to store user credentials and access logs, ensuring a reliable record of all entries and exits. The system will also feature a web interface to allow remote management and monitoring of access control, and it will be connected to the building’s network via Wi-Fi or Ethernet, ensuring administrators can manage permissions and track usage remotely.
