@@ -1,1 +1,5 @@
-# BTS535-workshop3
+The project we've chosen is a cross-platform mobile training application. We want this project to be able to track workouts based upon workout category. We also want the tracked workouts to be shareable. This is to give people the ability to have a historical representation of their effort and a visual pathway towards their goals. 
+
+The main features for this application would be the ability for users to create accounts, creating workout logs that track different workouts, the ability to display workout history with graphs and statistical information, goal-setting and tracking within the application, and the ability to share workout summaries or achievements with others.
+
+Since this is a cross-platform application, using something like React-Native would accomplish the ability to deploy the app on multiple platforms. React-native is a javascript based framework with a large community support. The backend can be supported using Node.js with MongoDB for storing workout related information. For the front end, designs for workout log forms, goal-setting interfaces, and graphs need to be made. Tools like figma can help with creating these features visually. 
