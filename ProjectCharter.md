@@ -6,7 +6,17 @@
      -An application designed for people ages 15-65 from all over the world to be able to track and improve their overall health and fitness. This application will be up and running prior to the beginning of the winter term, with tools for tracking, creating, and implementing various different workouts all with a few pushes of some buttons.
      -Displaying the users progress and workouts to go will also be included as users begin to fill up their accounts.
 3. Milestones (at least five)
+   - Finalize design requirements for features to include
+   - implementation of account / sign in system
+   - implementation of workout tracking system
+   - implementation of interactivity between accounts
+   - implementation of creating relationships between individual workouts to track long-term progress
 4. Deliverables (at least five)
-5. Preliminary Budget (to be left empty)
-6. Organization and Stakeholders, (only a table with roles, responsibilities, and assignments for now)
-7. Risks, Assumptions, and Constraints (at least three of each)
+   - Login system
+   - Exercise tracker
+   - Workout tracker (a workout is a session with one or more exercises with one or more repititions)
+   - A user wall / profile
+   - Long-term progression tracker (a view for multiple workouts)
+6. Preliminary Budget (to be left empty)
+7. Organization and Stakeholders, (only a table with roles, responsibilities, and assignments for now)
+8. Risks, Assumptions, and Constraints (at least three of each)
