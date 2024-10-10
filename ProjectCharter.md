@@ -1,0 +1,7 @@
+1. Introduction (mkleiman1)
+2. Overview (including objectives) (mkleiman1)
+3. Milestones (at least five)
+4. Deliverables (at least five)
+5. Preliminary Budget (to be left empty)
+6. Organization and Stakeholders, (only a table with roles, responsibilities, and assignments for now)
+7. Risks, Assumptions, and Constraints (at least three of each)
