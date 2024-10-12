@@ -29,3 +29,18 @@
 | Product Owner        | Define project scope, approve deliverables, and gather feedback   | Sunny           |
 
 8. Risks, Assumptions, and Constraints (at least three of each)
+
+**Risks:**
+- Feature Creep: The team might be tempted to add more features than initially planned, leading to delays in project completion.
+- User Adoption: There could be a challenge in getting users to adopt the new fitness tracking application due to competition from well-established apps.
+- Technical Issues: Integration of features like workout tracking and account systems could run into technical challenges, leading to potential delays.
+
+**Assumptions:**
+- The application will have stable internet access for users to interact with the cloud-based features, such as progress tracking and account creation.
+- The development team will have access to the necessary resources and tools (e.g., development software, libraries) to implement all key features.
+- Users will provide accurate personal information (e.g., weight, workout data) to track their fitness accurately.
+
+**Constraints:**
+-Time Constraint: The project needs to be completed before the winter term begins.
+-Budget Constraint: The project must be developed without exceeding any financial limits (though the exact budget is to be defined later).
+Resource Limitation: The team is limited to using available development tools and libraries, which may restrict certain advanced functionalities.
