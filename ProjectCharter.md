@@ -18,5 +18,14 @@
    - A user wall / profile
    - Long-term progression tracker (a view for multiple workouts)
 6. Preliminary Budget (to be left empty)
-7. Organization and Stakeholders, (only a table with roles, responsibilities, and assignments for now)
+7. Organization and Stakeholders, (aghaffarzadeh)
+
+| **Project Role**     | **Responsibilities**                                              | **Assigned to** |
+|----------------------|-------------------------------------------------------------------|-----------------|
+| Project Manager      | Oversee project progress, manage deadlines, and coordinate tasks  | Micheal         |
+| Lead Developer       | Implement core functionalities, oversee code quality              | Amir            |
+| UX/UI Designer       | Design user interfaces, ensure smooth user experience             | Stebin          |
+| QA Tester            | Test for bugs, ensure feature reliability                         | Joshua          |
+| Product Owner        | Define project scope, approve deliverables, and gather feedback   | Sunny           |
+
 8. Risks, Assumptions, and Constraints (at least three of each)
